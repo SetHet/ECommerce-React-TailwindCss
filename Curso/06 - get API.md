@@ -7,6 +7,10 @@ otras api:
 - https://fakestoreapi.com/
 - https://fakeapi.platzi.com/
 
+Imagenes:
+
+- https://www.pexels.com/es-es/buscar/ups/
+
 ## Pre consumir
 
 Se utilizara el estado de react y usar el useEffect para correrlo en casos especificos.
